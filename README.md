@@ -1,2 +1,2 @@
-# random
-This repository is for practicing the GitHub Flow
+Se21uari196
+Vrishab Reddy Gurram
